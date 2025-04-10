@@ -24,6 +24,7 @@ Programming Language: HTML/CSS, JavaScript
 🔁 Forked Version: https://github.com/Chongaaaa/fitzone.git
 
 
+
 ### 🧑‍💻 Group Project: [AjiFit](https://github.com/Chongaaaa/AjiFit_Hackathon.git)  
 Collaborated in a team of 4 to develop fitZone, a fitness website. Secured 4th place in the TV Hackathon Final Competition 2024 and was selected to participate in the Top 10 pitching session.
 
@@ -32,12 +33,14 @@ Programming Language: HTML/CSS, JavaScript, Bootstrap
 **My role:** Home Page, Profile Page and Water Reminder Page. (Frontend Development)
 
 
+
 ### 🧑‍💻 Group Project: [Starpark](https://github.com/Chongaaaa/StarPark.git)  
 Collaborated in a team of 3 to develop Starpark, a theme park ticketing system. Using text files to store data.
 
 Programming Language: C++
 
 **My role:** Reward and Redemption Module (Backend Development)
+
 
 
 ### 🧑‍💻 Group Project: [Charity Centre Management System](https://github.com/leequanjin/DataStructure.git)  
@@ -49,6 +52,7 @@ Programming Language: C++
   
 🔗 Repository: https://github.com/leequanjin/DataStructure.git  
 🔁 Forked Version: https://github.com/Chongaaaa/DataStructure.git
+
 
 
 ### 🧑‍💻 Group Project: [Mobie](https://github.com/Chongaaaa/Python-AI.git)  
