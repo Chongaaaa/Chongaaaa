@@ -1,7 +1,8 @@
 Hi, I'm Heng Pei Lin, a creative developer passionate about building engaging websites and mobile applications, especially with a strong focus on user interface design. I enjoy crafting clean, efficient, and scalable solutions, and I'm always excited to learn and explore new technologies.
 
 ## 🔧 Technologies & Tools:
-- **Languages**: Java, JavaScript, HTML/CSS, Python, Kotlin, C++
+- **Languages**: Java, JavaScript, HTML/CSS, Python, Kotlin, C++, DART
+- **Frameworks**: Fluter, Bootstrap
 - **Database**: MySQL, Oracle SQL, Firebase
 
 
