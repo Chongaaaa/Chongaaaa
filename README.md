@@ -8,3 +8,5 @@ I'm a passionate developer. I enjoy building clean, efficient, and scalable appl
 
 ## 📈 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats-pi-bice.vercel.app?user=Chongaaaa&theme=vue-dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats-lyart-zeta-54.vercel.app/api/top-langs/?username=Chongaaaa&layout=donut&theme=vue-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
