@@ -26,7 +26,7 @@ Programming Language: HTML/CSS, JavaScript
 
 
 ### 🧑‍💻 Group Project: [AjiFit](https://github.com/Chongaaaa/AjiFit_Hackathon.git)  
-Collaborated in a team of 4 to develop fitZone, a fitness website. Secured 4th place in the TV Hackathon Final Competition 2024 and was selected to participate in the Top 10 pitching session.
+Collaborated in a team of 4 to develop fitZone, a fitness website. Secured 4th place in the TV Hackathon Final Competition 2024 and was participated in the Top 10 pitching session.
 
 Programming Language: HTML/CSS, JavaScript, Bootstrap
 
