@@ -1,4 +1,4 @@
-I'm a passionate developer. I enjoy building clean, efficient, and scalable applications, and I'm always eager to learn new things.
+Hi, I'm Heng Pei Lin, a creative developer passionate about building engaging websites and mobile applications, especially with a strong focus on user interface design. I enjoy crafting clean, efficient, and scalable solutions, and I'm always excited to learn and explore new technologies.
 
 ## 🔧 Technologies & Tools:
 - **Languages**: Java, JavaScript, HTML/CSS, Python, Kotlin, C++
